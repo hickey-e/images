@@ -1,0 +1,17 @@
+ <svg class="arrowdown" width="13px" height="28px" viewBox="0 0 13 28" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <defs>
+            <rect x="0" y="0" width="13" height="28" id="rect-1"></rect>
+        </defs>
+        <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g transform="translate(-1386.000000, -781.000000)">
+                <g transform="translate(92.000000, 751.000000)">
+                    <g transform="translate(1294.000000, 30.000000)">
+                        <g>
+                            <image x="0" y="0" width="13" height="28" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAA1CAYAAACnUADaAAAAAXNSR0IArs4c6QAAATVJREFUSA3tl7FKA1EQRRO1En8goFYBQcEqNmlcRKxFsLBQQiySPl+TxhBia2Mnki+w0NYqm1awSqOVnrsm8MzEfYs2FjNw2N2ZeZeZy2u2nCRJKSda1M4gyekpLeUVqe3CfqQnKvKKwOSvIrHzWT22josUcsA2ubHuiXXAZvyeuCfWAZvxe+KeWAdsxu+Je2IdsJn/dU827ICFMyd0DrVOCr8ROuLcDUwk8gTPUIWiIYE7GMCxROowgkfYhFgc0CCBPlyoWSLvsAMpjGEdwigHH5pgCD1oQBYSmcUeL5omXG2Z749pwyFPTXANzWkue4Qib2S0mqaR2Bqk8AI1uAetcA7fIhRRQULbkIIM34IKPMAVNMDEvMisQavph6kDq9CFS1gYKwuzXxOdUrsFrdP+oS9LfwI2qSu9rsUFvgAAAABJRU5ErkJggg=="></image>
+                            <use fill-opacity="0" fill="#000000" fill-rule="evenodd" xlink:href="#rect-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>
